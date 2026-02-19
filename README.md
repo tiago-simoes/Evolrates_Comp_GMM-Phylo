@@ -1,6 +1,6 @@
 # Supplementary Data 
 
-Supplementary Data for: Simões, T. R., Brum, A. S. & Pierce, S. E. Evolutionary rate incongruences in squamates reveal contrasting patterns of evolutionary novelties and innovation. Systematic Biology syaf067, https://doi.org/10.1093/sysbio/syaf1067, (2026)Simões, T. R., Brum, A. S. & Pierce, S. E. Evolutionary rate incongruences in squamates reveal contrasting patterns of evolutionary novelties and innovation. Systematic Biology syaf067, https://doi.org/10.1093/sysbio/syaf1067, (2026). DOI: https://doi.org/10.1093/sysbio/syaf067 
+Supplementary Data for: Simões, T. R., Brum, A. S. & Pierce, S. E. Evolutionary rate incongruences in squamates reveal contrasting patterns of evolutionary novelties and innovation. Systematic Biology syaf067, https://doi.org/10.1093/sysbio/syaf1067, (2026)Simões, T. R., Brum, A. S. & Pierce, S. E. Evolutionary rate incongruences in squamates reveal contrasting patterns of evolutionary novelties and innovation. Systematic Biology syaf067, https://doi.org/10.1093/sysbio/syaf1067, (2026). 
 
 
 ## GENERAL INFORMATION
